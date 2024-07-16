@@ -1,4 +1,5 @@
-// Muhammad Solihin 22009201, Adam Marwan 22009203
+// Muhammad Solihin 22009201
+// Adam Marwan 22009203
 
 import javafx.application.Application;
 import javafx.scene.Scene;
