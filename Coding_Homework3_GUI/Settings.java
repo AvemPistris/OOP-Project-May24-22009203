@@ -1,4 +1,5 @@
-//Danish Harith 22009489
+// Danish Harith 22009489
+// Muhammad Amin Zufar 24000162
 
 import javafx.application.Application;
 import javafx.geometry.Insets;
